@@ -1,0 +1,39 @@
+What is Agile Methodology?
+Agile methodology of software development is based on iterative and incremental approach. In agile, we have small incremental builds presented in multiple iterations to the end user and other stakeholders for their feedback. Based on the feedback, changes are incorporated in the next iterations of the build on the basis of their priority.
+In agile, the different cross functional teams work together in the different iterations of the build with emphasis on more face-to-face interaction and less formal documentation.
+
+Basically, agile is a methodology and there are different implementations following this methodology. Following are some of the most widey used agile implementations -
+
+Scrum - Scrum is one of the most popular implementation of agile where different roles like - product owner, scrum master and team members are assigned to different participants of software development. Daily scrum meeting are organised for the updates and a build is delivered in a two to three week cycle called sprint.
+Extreme Programming (XP) - Extreme programming is an agile implementation in which frequent customer feedback and changes are incorporated with focus on quality software. Quality of software is maintained by following the coding practices like pair programming(code reviews, unit testing etc.) to the extreme level. Hence, the name extreme programming.
+Kanban - Kanban is a development approach in which the tasks are organized in a Kanban board, wherein we can track the progress of the work, helping in decision making.
+Crystal Clear - Crystal clear development like other agile methodologies focusses on frequent delivery and feedback. It is a lightweight approach based on the fact that customization of process and practices is required to meet the project specific requirements.
+Lean Software Development - Lean software developement methodology is based on seven lean principles - eliminate waste(like any code not adding value), amplify learning, decide late, deliver fast, empower team, build integrity and See the Whole(see the product as a whole).
+
+Features of Agile
+Following are some of the features of Agile methodology-
+
+Agile allows frequent deliverables to the end user.
+Customer feedbacks and changes are embraced and incorporated in the iterations based on their priority.
+It emphasis on colloborative work of cross functional team.
+It focuses on more interaction and face-to-face communications.
+It promotes regular review of the whole development process and fine tuning if required.
+
+Advantages of Agile
+Following are the advantages of Agile methodology-
+
+Agile is very much suited for projects where requirements and the end product is not very clear.
+It promotes customer satisfaction as their feedbacks and changes are embraced.
+It reduces risk factor as early deliverables are made visible to the end users.
+Exhaustive planning is not required at the beginning of the development process.
+It is easy to manage with minimal rules and more flexibility.
+Dividing the project into incremental deliverable builds leads to more focus on quality of the product.
+
+Disadvantages of Agile
+Following are the disadvantages of Agile methodology-
+
+As it is highly customer-centric, so it can pose problem when the customer does not have clear understanding of the product and process.
+Lack of formal documentation and designing leads to very high dependency on the individuals for traning and other tasks.
+For complex projects, the resource requirement and effort are difficult to estimate.
+Frequent deliverables, feedback and collaboration can be very demanding for some customers.
+Because of the ever-evolving features, there is always a risk of ever-lasting project.
