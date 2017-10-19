@@ -1,0 +1,26 @@
+What is Test Strategy?
+A Test Strategy is a high-level document describing the way testing will be carried out. It is presented by the project manager to all the stakeholders in the testing process. It can have a scope of an entire organization or a particular project.
+
+Test Strategy Approaches
+The the different apporaches to test strategy are-
+
+Analytical Approach - Based on the risk analysis
+Model-based Approach - Based on the various statistical models
+Consultative Approach - Based on the consultation with technology or domain experts
+Methodical Approach - Based on the experience
+Heuristic Approach - Based on the exploratory techniques
+Standard-compliant Approach - Based on the industry standards and processes
+Test Strategy Document Template
+A test strategy document can contain the following fields-
+
+Test Strategy Id - An identifier of the test strategy document and its various versions.
+Introduction - A brief introduction to the purpose and scope of the document.
+Standards to use - The different standards or set of guidelines to be followed.
+Risks and Mitigations - The different risks associated with in testing and their mitigation strategies.
+Entry Critieria - The set of pre-requisite that must be performed before testing can start.
+Exit Critieria - The criteria defining when the testing can be stopped.
+Test design techniques - The test design techniques to be used like - equivalence partitioning, boundary value analysis etc.
+Test environment - The test environment specifications.
+Configuration management of testware - Specification of the right version of testware for testing.
+Test process improvement - The apporaches to use for improving the test process.
+Approvals - The persons approving the test strategy document.
