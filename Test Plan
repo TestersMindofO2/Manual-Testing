@@ -1,0 +1,32 @@
+What is a Test Plan?
+A Test Plan is a formal document derived from requirement documents (Software Requirement Specification, Use Case documents etc.), describing in detail the scope of testing and the different activities performed in testing. It is generally prepared by a test manager and approved by the different stakeholders of the application.
+
+Features of a Test Plan
+A Test Plan needs to address the following-
+
+Overall scope of testing
+Risk Analysis
+Test estimate
+Resource Requirement
+Tools used
+Scheduling, review and analysis of test design activities
+Creation of test cases and test data
+Identification of test monitoring and test control activities
+
+Test Plan Template
+A test plan contains the following fields-
+
+Test Plan Id - A unique identifier of the test plan and its different associated versions.
+Introduction - A brief introduction to the application under test.
+Purpose and scope - The overall purpose and scope of testing.
+Testing Strategy - Describes the testing approach in the software development life cycle.
+Features to be tested - Describes the features of the application to be tested.
+Features not to be tested - Describes the feature not in the scope of testing.
+Test deliverables - The different types of test artifacts to be delivered like test cases, test results etc.
+Environmental needs - Any environment specific need of project.
+Responsibilities - The resources involved in the testing process and their responsibilities.
+Training needs - The project specific training requirements of different resources.
+Schedule - The estimate or schedule of the test deliverables.
+Risks and Mitigations - The different risks associated with the project and their mitigation strategies.
+Tools - List of tools used (if any).
+Approvals - The persons approving the test plan.
