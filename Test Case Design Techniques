@@ -1,0 +1,16 @@
+Specification based testing techniques
+The different types of specification based test design techniques or black box testing techniques are-
+
+1) Equivalence partitioning - In equivalence class partitioning we group the input data into logical groups or equivalence classes. 
+All the data items lying in an equivalence class are assumed to have same behavior when passed as input to the application. 
+E.g. for an application finding square of numbers, we can different equivalence classes like - all whoe positive numbers, negative numbers, decimal numbers, negative decimal numbers etc.
+
+2) Boundary value analysis - In boundary value analysis the boundary values of the equivalence partitioning classes are taken as input to the application. E.g. for equivalence classes limiting input between 0 and 100, the boundary values would be 0 and 100.
+
+3) Decision tables - Decision tables testing is used to test application's behaviour based on different combination of input values. A decision table has different set of input combination and their corresponding expected outcome on each row.
+
+4) Cause-effect graph - A cause-effect graph testing is carried out using graphical representation of input i.e. cause and output i.e. effect. We can find the coverage of cause effect graphs based on the percentage of combinations of inputs tested out of the total possible combinations.
+
+5) State transition testing - The state transition testing is based on state machine model. In this technique, we test the application by graphically representing the transition between the different states of the application based on the different events and actions.
+
+6) Use case testing - Use case testing is carried out using use cases. In this technique, we test the application using use-cases, representing the interaction of the application with the different actors.
