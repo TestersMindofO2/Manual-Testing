@@ -1,0 +1,26 @@
+Software testing is basically the sum total of the two activities - Verification and Validation.
+Verification is the process of evaluating the artifacts of software development in order to ensure that the product being developed will comply to the standards. 
+It is static process of analysing the documents and not the actual end product.Whereas, Validation is the process of validating that the developed software product conforms to the specified business requirements. 
+It involves dynamic testing of software product by running it.
+
+The difference between the two is:-
+
+#	Verification	Validation
+1.	Verification involves evaluation of artifacts of software development to ensure that the product being developed will comply to its requirement.	
+    Validation involves validation of developed software product to check if it conforms to the specified business requirements.
+    
+2.	It is static process of analysing the documents and not the actual end product.	
+    It involves dynamic testing of software product by running it.
+    
+3.	Verification is a process oriented approach.	
+    Validation is a product oriented approach.
+    
+4.	Answers the question - "Are we building the product right?"	
+    Answers the question - "Are we building the right product?"
+    
+5.	Errors found during verification require lesser cost/resources to get fixed as compared to be found during validation phase.	
+    Errors found during validation require more cost/resources. Later the error is discovered higher is the cost to fix it.
+    
+6.	It involves activites like document review, test cases review, walk-throughs, inspection etc.	
+     It involves activites like functional testing, automation testing etc.
+
