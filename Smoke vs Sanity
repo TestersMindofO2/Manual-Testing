@@ -1,0 +1,13 @@
+#	Smoke Testing	Sanity Testing
+
+1.	Smoke testing is a shallow and wide approach of testing	
+    Sanity testing is a narrow and deep approach of testing
+    
+2.	Smoke testing is done to ensure that the build is good enough to be considered for carrying on full-fledged testing	
+    Sanity testing is done to ensure that after a new fix the particular component is working fine
+    
+3.	We usually have documented smoke tests i.e. there are some tests identified as smoke tests. These are tests are usually(preferably) automated	
+    Sanity tests are generally not automated or even documented as test cases
+    
+4.	Smoke checks the overall components of the system	
+    Sanity checks the specific functionality of the system
